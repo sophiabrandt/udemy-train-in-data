@@ -172,7 +172,7 @@ Project Link: [https://github.com/sophiabrandt/udemy-feature-engineering](https:
 [stars-url]: https://github.com/sophiabrandt/udemy-feature-engineering/stargazers
 [issues-shield]: https://img.shields.io/github/issues/sophiabrandt/udemy-feature-engineering.svg?style=flat-square
 [issues-url]: https://github.com/sophiabrandt/udemy-feature-engineering/issues
-[license-shield]: https://img.shields.io/github/license/sophiabrandt/udemy-feature-engineering.svg?style=flat-square
+[license-shield]: https://img.shields.io/badge/License-BSD%203--Clause-blue.svg
 [license-url]: https://github.com/sophiabrandt/udemy-feature-engineering/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
 [udemy]: https://www.udemy.com/course/feature-engineering-for-machine-learning/
