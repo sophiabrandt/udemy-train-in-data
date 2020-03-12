@@ -1,0 +1,20 @@
+version: "2.4"
+
+services:
+  python:
+    build:
+      dockerfile: ./docker/Dockerfile-dev
+      context: ./
+      args:
+        - USER_ID=${USER_ID:-0}
+        - GROUP_ID=${GROUP_ID:-0}
+    env_file:
+      - .env_dev
+    ports:
+      - "8008:8008"
+    command:
+      jupyter lab --no-browser --ip=0.0.0.0 --NotebookApp.token='local_dev' --NotebookApp.port=8008
+    volumes:
+      - './data:/usr/src/app/data'
+      - './code:/usr/src/app/code'
+      - './notebooks:/usr/src/app/notebooks'
