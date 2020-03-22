@@ -5,23 +5,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/sophiabrandt/udemy-feature-engineering">
-    <img src="logo.png" alt="Logo">
+  <a href="https://github.com/sophiabrandt/udemy-train-in-data">
+    <img src="data/images/logo.png" alt="Logo">
   </a>
 
-  <h3 align="center">Udemy: Feature Engineering</h3>
+  <h3 align="center">Udemy: Train in Data Courses</h3>
 
   <p align="center">
-    Code repository for Udemy course
+    Code repository for Udemy courses by Soledad Galli
     <br />
-    <a href="https://github.com/sophiabrandt/udemy-feature-engineering"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/sophiabrandt/udemy-train-in-data"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/sophiabrandt/udemy-feature-engineering">View Demo</a>
+    <a href="https://github.com/sophiabrandt/udemy-train-in-data">View Demo</a>
     ·
-    <a href="https://github.com/sophiabrandt/udemy-feature-engineering/issues">Report a Bug</a>
+    <a href="https://github.com/sophiabrandt/udemy-train-in-data/issues">Report a Bug</a>
     ·
-    <a href="https://github.com/sophiabrandt/udemy-feature-engineering/issues">Request Feature</a>
+    <a href="https://github.com/sophiabrandt/udemy-train-in-data/issues">Request Feature</a>
   </p>
 </p>
 
@@ -45,7 +45,7 @@
 
 ## About The Project
 
-The project serves as a backup and online wiki for the lectures in the Udemy course **[Feature Engineering for Machine Learning][udemy]** by Soledad Galli.
+The project serves as a backup and online wiki for the lectures in the **[Udemy courses by Soledad Galli from Train in Data][udemy]**.
 
 ### Built With
 
@@ -67,22 +67,22 @@ You'll need Docker and docker-compose:
 
 ```sh
 docker --version
-> Docker version 19.03.5-ce
+> Docker version 19.03.7
 ```
 
 - docker-compose
 
 ```sh
 docker-compose -v
-> docker-compose version 1.25.3
+> docker-compose version 1.25.4
 ```
 
 ### Installation
 
-1. Clone the repo
+1. Clone the repository
 
 ```sh
-git clone https://github.com/sophiabrandt/udemy-feature-engineering.git
+git clone https://github.com/sophiabrandt/udemy-train-in-data.git
 ```
 
 2. Create `.env_dev` file with the following format:
@@ -125,7 +125,7 @@ _Note:_ The Jupyter Notebook uses Vim key mappings for developent. See [Dockerfi
 
 ## Roadmap
 
-See the [open issues](https://github.com/sophiabrandt/udemy-feature-engineering/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/sophiabrandt/udemy-train-in-data/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
@@ -152,27 +152,27 @@ Original code by Soledad Galli. Original Docker setup by Binal Patel.
 
 Sophia Brandt - [@hisophiabrandt](https://twitter.com/hisophiabrandt)
 
-Project Link: [https://github.com/sophiabrandt/udemy-feature-engineering](https://github.com/sophiabrandt/udemy-feature-engineering)
+Project Link: [https://github.com/sophiabrandt/udemy-train-in-data](https://github.com/sophiabrandt/udemy-train-in-data)
 
 <!-- ACKNOWLEDGEMENTS -->
 
 ## Acknowledgements
 
-- [Feature Engineering for Machine Learning][udemy] by Soledad Galli
+- [Train in Data Udemy Courses][udemy] by Soledad Galli
 - [Data Science Docker Template](https://github.com/caesarnine/data-science-docker-template) by Binal Patel
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/sophiabrandt/udemy-feature-engineering.svg?style=flat-square
-[contributors-url]: https://github.com/sophiabrandt/udemy-feature-engineering/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/sophiabrandt/udemy-feature-engineering.svg?style=flat-square
-[forks-url]: https://github.com/sophiabrandt/udemy-feature-engineering/network/members
-[stars-shield]: https://img.shields.io/github/stars/sophiabrandt/udemy-feature-engineering.svg?style=flat-square
-[stars-url]: https://github.com/sophiabrandt/udemy-feature-engineering/stargazers
-[issues-shield]: https://img.shields.io/github/issues/sophiabrandt/udemy-feature-engineering.svg?style=flat-square
-[issues-url]: https://github.com/sophiabrandt/udemy-feature-engineering/issues
+[contributors-shield]: https://img.shields.io/github/contributors/sophiabrandt/udemy-train-in-data.svg?style=flat-square
+[contributors-url]: https://github.com/sophiabrandt/udemy-train-in-data/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/sophiabrandt/udemy-train-in-data.svg?style=flat-square
+[forks-url]: https://github.com/sophiabrandt/udemy-train-in-data/network/members
+[stars-shield]: https://img.shields.io/github/stars/sophiabrandt/udemy-train-in-data.svg?style=flat-square
+[stars-url]: https://github.com/sophiabrandt/udemy-train-in-data/stargazers
+[issues-shield]: https://img.shields.io/github/issues/sophiabrandt/udemy-train-in-data.svg?style=flat-square
+[issues-url]: https://github.com/sophiabrandt/udemy-train-in-data/issues
 [license-shield]: https://img.shields.io/badge/License-BSD%203--Clause-blue.svg
-[license-url]: https://github.com/sophiabrandt/udemy-feature-engineering/blob/master/LICENSE.txt
+[license-url]: https://github.com/sophiabrandt/udemy-train-in-data/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
-[udemy]: https://www.udemy.com/course/feature-engineering-for-machine-learning/
+[udemy]: https://www.udemy.com/user/soledad-galli/
