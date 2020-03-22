@@ -6,7 +6,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/sophiabrandt/udemy-train-in-data">
-    <img src="data/images/logo.png" alt="Logo">
+    <img src="logo.png" alt="Logo">
   </a>
 
   <h3 align="center">Udemy: Train in Data Courses</h3>
