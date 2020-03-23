@@ -12,7 +12,7 @@
   <h3 align="center">Udemy: Train in Data Courses</h3>
 
   <p align="center">
-    Code repository for Udemy courses by Soledad Galli
+    Code repository for Udemy courses by Soledad Galli & Christopher Samiullah
     <br />
     <a href="https://github.com/sophiabrandt/udemy-train-in-data"><strong>Explore the docs »</strong></a>
     <br />
@@ -45,7 +45,7 @@
 
 ## About The Project
 
-The project serves as a backup and online wiki for the lectures in the **[Udemy courses by Soledad Galli from Train in Data][udemy]**.
+The project serves as a backup and online wiki for the lectures in the **[Udemy courses by Soledad Galli & Christopher Samiullah from Train in Data][udemy]**.
 
 ### Built With
 
@@ -144,7 +144,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## License
 
 Distributed under the BSD-3-Clause License. See [`LICENSE`](LICENSE.txt) for more information.  
-Original code by Soledad Galli. Original Docker setup by Binal Patel.
+Original code by Soledad Galli & Christopher Samiullah. Original Docker setup by Binal Patel.
 
 <!-- CONTACT -->
 
@@ -158,7 +158,7 @@ Project Link: [https://github.com/sophiabrandt/udemy-train-in-data](https://gith
 
 ## Acknowledgements
 
-- [Train in Data Udemy Courses][udemy] by Soledad Galli
+- [Train in Data Udemy Courses][udemy] by Soledad Galli and Christopher Samiullah
 - [Data Science Docker Template](https://github.com/caesarnine/data-science-docker-template) by Binal Patel
 
 <!-- MARKDOWN LINKS & IMAGES -->
